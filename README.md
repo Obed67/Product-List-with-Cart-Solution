@@ -79,8 +79,8 @@ In future projects, I want to explore more advanced state management techniques,
 
 ## Author
 
-- GitHub - [fedibbm](https://www.github.com/fedibbm)
-- Frontend Mentor - [@fedibbm](https://www.frontendmentor.io/profile/fedibbm)
+- GitHub - [fedibbm](https://www.github.com/Obed67)
+- Frontend Mentor - [@fedibbm](https://www.frontendmentor.io/profile/Obed67)
 
 
 ## Acknowledgments
