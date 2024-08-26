@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/fedibbm/product-list-with-cart-main)
+- Solution URL: [Github](https://github.com/Obed67/Product-List-with-Cart-Solution/tree/main)
 - Live Site URL: [Live URL](https://product-list-with-cart-solution-five.vercel.app/)
 
 ## My Process
